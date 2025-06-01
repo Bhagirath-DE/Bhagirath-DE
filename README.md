@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhagirath</h1>
 <h3 align="center">Cloud Data Engineer</h3>
 
-- 💬 Ask me about **About Data**
+> I'm always happy to chat about:
+
+- 🧠 **Data Engineering** – pipelines, modeling, optimization
+- ☁️ **Cloud Platforms** – especially **Google Cloud** & **Azure**
+- 🐍 **Programming in Python** – from scripts to full-scale ETL
+- 🧮 **SQL** – writing complex queries that actually make sense
+- 📊 **Data Visualization** – turning data into stories
+- 🔁 **Automation** – using Python to save time and sanity
+- 🔧 **BigQuery, Databricks, Airflow, Azure Data Lake**
+
 
 - 📫 How to reach me **bhagirath.d009@gmail.com**
 
